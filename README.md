@@ -6,8 +6,8 @@ Would you like to win the lottery? Who wouldn´t. Well fear not, now you can see
 - Dowload the zip.
 - Unzip it.
 - Open a terminal in the location.
-- Type ***javac fi/tuni/tamk/tiko/halinenpetr/LottoApp.java***
-- Type ***java fi/tuni/tamk/tiko/halinenpetr/LottoApp***
+- Type **javac fi/tuni/tamk/tiko/halinenpetr/LottoApp.java**
+- Type **java fi/tuni/tamk/tiko/halinenpetr/LottoApp**
 # Screenshots
 ![LottoApp](https://user-images.githubusercontent.com/72746614/97112743-a8813680-16ee-11eb-9916-5222297c9af5.JPG)
 # Features
